@@ -14,7 +14,7 @@ namespace BuildingPropFixes.Systems
     using Unity.Entities;
 
     /// <summary>
-    /// Fixes the prefab entities of certain prefabs in the region packs.
+    /// Fixes the prefab entities of certain prefabs. Main goal was to fix subobjects in the region packs.
     /// </summary>
     public partial class BuildingPropFixesSystem : GameSystemBase
     {
