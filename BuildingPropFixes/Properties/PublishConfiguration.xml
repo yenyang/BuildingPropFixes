@@ -61,7 +61,7 @@ I will respond on the code modding channels on Cities: Skylines Modding Discord.
   <!--ChangeLog>
 	</ChangeLog-->
   <!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon, buymeacoffee, kofi, crowdin, gitlab-->
-	<ExternalLink Type="discord" Url="https://discord.gg/HTav7ARPs2" />
-	<ExternalLink Type="github" Url="https://github.com/yenyang/BuildingPropFixes" />
-	<ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/YenyangsMods" />
+  <ExternalLink Type="discord" Url="https://discord.gg/HTav7ARPs2" />
+  <ExternalLink Type="github" Url="https://github.com/yenyang/BuildingPropFixes" />
+  <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/YenyangsMods" />
 </Publish>
