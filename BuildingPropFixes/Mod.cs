@@ -9,7 +9,7 @@ namespace BuildingPropFixes
 {
     public class Mod : IMod
     {
-        public static ILog log = LogManager.GetLogger($"{nameof(BuildingPropFixes)}.{nameof(Mod)}").SetShowsErrorsInUI(false);
+        public static ILog log = LogManager.GetLogger($"Mods_Yenyang_{nameof(BuildingPropFixes)}").SetShowsErrorsInUI(false);
 
         public void OnLoad(UpdateSystem updateSystem)
         {
