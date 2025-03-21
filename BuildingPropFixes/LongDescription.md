@@ -3,7 +3,7 @@
 # Dependencies
 None
 
-## Donations
+# Donations
 If you want to say thank you with a donation you can do so on Paypal.
 
 # Detailed Description:
