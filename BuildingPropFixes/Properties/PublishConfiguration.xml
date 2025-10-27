@@ -57,8 +57,8 @@ I will respond on the code modding channels on Cities: Skylines Modding Discord.
   <!--Dependency for the mod, can be set multiple times-->
   <Dependency Id="" />
   <!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-  <ChangeLog># Patch V1.0.1
-* Rebuild for compatibility with Game Update v1.3.3f1.</ChangeLog>
+  <ChangeLog># Patch V1.0.2
+* Rebuild for compatibility with Game Update v1.3.6f1.</ChangeLog>
   <!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon, buymeacoffee, kofi, crowdin, gitlab-->
   <ExternalLink Type="discord" Url="https://discord.gg/HTav7ARPs2" />
   <ExternalLink Type="github" Url="https://github.com/yenyang/BuildingPropFixes" />
